@@ -17,7 +17,7 @@
   <br>
   I'm currently pursuing Btech for Computer Science and Engineering(Undergraduate).
   <br>
-  💻 I love coding and learning new things.
+  💻 I love prompt engineering and learning new things. I always love to explore.
   <br>
   📚 I’m currently learning flutter and java.
   <br>
