@@ -24,6 +24,8 @@
   📫 How to reach me: <a href="mailto: kiranpatel502081@gmail.com">kiranpatel502081@gmail.com</a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=patelkiran185&color=green)
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools</h2>
 <br>
